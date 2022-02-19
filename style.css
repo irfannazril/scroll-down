@@ -140,3 +140,18 @@
   background: #3d3d3d;
   color: #1754fd;
 }
+
+@media (max-width: 991px) {
+  .top {
+    font-size: 7em;
+    max-height: 100vh;
+  }
+  .mid {
+    font-size: 7em;
+  }
+  .bottom {
+    text-align: center;
+    font-size: 6em;
+    padding: 0 3rem;
+  }
+}
