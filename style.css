@@ -128,7 +128,7 @@ body {
   position: sticky;
   top: 0;
   width: 10%;
-  height: 200vh;
+  height: 100vh;
   background: linear-gradient(#fdf917, #17fd17, #178efd);
   margin-bottom: calc(100vh * var(--i));
 }
